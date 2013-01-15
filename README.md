@@ -1,0 +1,4 @@
+umdcs
+=====
+
+CoffeeScript UMD template
